@@ -9,14 +9,15 @@
 ## 🎥 Demo Video
 
 <p align="center">
-  <a href="video/Working_video.mp4">
+  <a href="Working_video.mp4">
     <img src="https://img.icons8.com/color/480/video.png" width="200">
   </a>
 </p>
 
 <p align="center">
-  Click the image above to watch the demo video
+Click the image above to watch the demo video
 </p>
+>
 
 ---
 
